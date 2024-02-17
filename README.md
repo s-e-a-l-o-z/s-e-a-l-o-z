@@ -1,0 +1,3 @@
+- hola i am sealoz
+- vex robotics 3708E yes
+- seals can be approximated by usage of a sphere or a few spheres
